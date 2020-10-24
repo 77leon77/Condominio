@@ -13,6 +13,10 @@ public class App
         System.out.println( "test branch remoto" );
 
         System.out.println( "branch locale" );
+
         System.out.println( "test branch remoto2" );
+
+        System.out.println( "branch locale2" );
+
     }
 }
