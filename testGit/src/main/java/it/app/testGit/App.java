@@ -17,7 +17,11 @@ public class App
         System.out.println( "test branch remoto2" );
 
         System.out.println( "branch locale2" );
+<<<<<<< HEAD
         System.out.println( "test branch remoto3" );
 
+=======
+        System.out.println( "branch locale3" );
+>>>>>>> refs/heads/testMerge
     }
 }
